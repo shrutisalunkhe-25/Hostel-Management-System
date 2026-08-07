@@ -38,7 +38,7 @@ It manage and stores hostel details,students records,room information,payment re
 - Foreign key
 - One to Many relationship
 - CHECK costraint
-- Aggregate Functions(SUM, COUNT)
+- Join Queris
 <br>
 ----
 
