@@ -64,4 +64,3 @@ CREATE TABLE Visitors (
     REFERENCES Students(std_id)
 );
 
-----
